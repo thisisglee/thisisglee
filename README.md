@@ -1,3 +1,3 @@
 Hi there 👋
-- I have 6+ years of Software Engineering experience.
+- I now have 6+ years of Software Engineering experience.
 
