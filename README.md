@@ -1,3 +1,3 @@
 Hi there 👋
-- 🔭 I’m currently working as a Software Developer with Findhelp Information Services...
+- I have 6+ years of Software Engineering experience.
 
